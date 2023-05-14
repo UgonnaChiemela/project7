@@ -6,7 +6,7 @@
 
 .mainbox {
     width: 100%;
-    height: 2925px;
+    height: 260px;
     background-color: white;
 }
 
@@ -53,28 +53,9 @@
     font-size: 20px;
     line-height: 24px;
 }
-
-.mainbox header .Register {
-    background-color: #E63946;
-    padding: 10px 50px;
-    border-radius: 25px;
-}
-
-.mainbox header .Register a {
-    color: #FAF9F9;
-    font-size: 20px;
-    text-decoration: none;
-}
-
-.mainbox section .box1 {
-    width: 100%;
-    height: 63px;
-    background: #F1FAEE;
-}
-
 .mainbox section .box1 ul {
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     justify-content: center;
 
 }
@@ -99,9 +80,9 @@
 
 .mainbox section .box2 {
     width: 100%;
-    height: 574px;
+    height: 690px;
     background: rgba(0, 0, 0, 0.4);
-    background-image: url(/hero-image.png);
+    background-image: url(/avic\ pics.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 background-position: center;
@@ -113,10 +94,10 @@ background-position: center;
     /* position: absolute; */
     left: 456px;
     top: 145px;
-    width: 528px;
+    width: 928px;
     height: 118px;
     margin: auto;
-    padding-top: 150px;
+    padding-top: 330px;
 
 }
 
@@ -124,7 +105,7 @@ background-position: center;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 800;
-    font-size: 48px;
+    font-size: 88px;
     line-height: 59px;
     text-align: center;
     color: #F4F4F4;
@@ -132,9 +113,9 @@ background-position: center;
 
 .mainbox section .box2 .box2b {
     /* position: absolute; */
-    width: 356px;
+    width: 1206px;
     height: 78px;
-    left: 542px;
+    left: 54px;
     top: 268px;
     padding: 20px;
     margin: auto;
@@ -144,428 +125,8 @@ background-position: center;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 500;
-    font-size: 32px;
+    font-size: 42px;
     line-height: 39px;
     text-align: center;
     color: #FFFFFF;
-}
-
-.mainbox section .box2 .box2c {
-    /* position: absolute; */
-    top: 420px;
-    left: 497px;
-    width: 356px;
-    height: 78px;
-    background-color: #E63946;
-    border-radius: 50px;
-    padding-left: 50px;
-    padding-right: 50px;
-    margin: auto;
-}
-
-.mainbox section .box2 .box2c a {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 39px;
-    padding-top: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
-    color: #FAF9F9;
-}
-
-.mainbox section .box3 {
-    width: 100%;
-    height: 578px;
-    background-color: #FFFFFF;
-
-}
-
-.mainbox section .box3 .box3a {
-    width: 948px;
-    margin: auto;
-    padding-top: 50px;
-}
-
-.mainbox section .box3 .box3a p {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 48px;
-    line-height: 59px;
-    color: #000000;
-}
-
-.mainbox section .box3 .box3b {
-    width: 100%;
-    height: 60%;
-    margin-top: 70px;
-    display: flex;
-    margin-left: 20px;
-}
-
-.mainbox section .box3 .box3b .box3ba {
-    width: 50%;
-    height: 100%;
-}
-
-.mainbox section .box3 .box3b .box3ba p {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 30px;
-    line-height: 40px;
-    letter-spacing: 0.03em;
-    color: #121212;
-}
-
-.mainbox section .box3 .box3b .box3bb {
-    width: 50%;
-    height: 100%;
-}
-
-.mainbox section .box3 .box3b .box3bb p {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 30px;
-    line-height: 40px;
-    letter-spacing: 0.03em;
-    color: #121212;
-}
-
-.mainbox section .box4 {
-    width: 100%;
-    height: 646px;
-    background: #1D3557;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-}
-
-.mainbox section .box4 .box4a {
-    width: 60%;
-    height: 491px;
-    background-image: url(/event-image.png);
-    border-radius: 3%;
-    margin-right: 70px;
-}
-
-.mainbox section .box4 .box4a .box4aa {
-    width: 100%;
-    height: 14%;
-    background-color: #E63946;
-    margin-top: 360px;
-
-}
-
-.mainbox section .box4 .box4a .box4aa h3 {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 24px;
-    margin-top: 1px;
-    color: #FFFFFF;
-}
-
-.mainbox section .box4 .box4a .box4aa p {
-    margin-top: 1px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 16px;
-    line-height: 19px;
-    color: #FFFFFF;
-}
-
-.mainbox section .box4 .box4b {
-    width: 25%;
-    height: 491px;
-}
-
-.mainbox section .box4 .box4b .box4ba {
-    width: 100%;
-    height: 15%;
-}
-
-.mainbox section .box4 .box4b .box4ba h2 {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 40px;
-    line-height: 59px;
-    padding-left: 25%;
-    color: #FFFFFF;
-}
-
-.mainbox section .box4 .box4b .box4bb {
-    width: 100%;
-    height: 40%;
-}
-
-.mainbox section .box4 .box4b .box4bb h3 {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 28px;
-    line-height: 29px;
-    margin-top: 10px;
-    color: #FFFFFF;
-}
-
-.mainbox section .box4 .box4b .box4bb p {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 22px;
-    line-height: 25px;
-    color: #FFFFFF;
-    margin-top: 10px;
-}
-
-.mainbox section .box4 .box4b .box4bc {
-    width: 100%;
-    height: 5%;
-}
-
-.mainbox section .box4 .box4b .box4bd {
-    width: 100%;
-    height: 40%;
-}
-
-.mainbox section .box4 .box4b .box4bd h3 {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 28px;
-    line-height: 29px;
-    margin-top: 10px;
-    color: #FFFFFF;
-}
-
-.mainbox section .box4 .box4b .box4bd p {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 22px;
-    line-height: 25px;
-    color: #FFFFFF;
-    margin-top: 10px;
-}
-
-.mainbox section .box5 {
-    width: 100%;
-    height: 500px;
-    background-color: #FFFFFF;
-}
-
-.mainbox section .box5 .box5a {
-    width: 100%;
-    height: 70%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    justify-content: space-between;
-}
-
-.mainbox section .box5 .box5a .box5aa {
-    width: 255px;
-    height: 255px;
-    margin-left: 150px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 32px;
-    line-height: 39px;
-    background: #F1FAEE;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 30px;
-}
-
-.mainbox section .box5 .box5a .box5ab {
-    width: 255px;
-    height: 255px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 32px;
-    line-height: 39px;
-    background: #F1FAEE;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 30px;
-}
-
-.mainbox section .box5 .box5a .box5ac {
-    width: 255px;
-    height: 255px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 32px;
-    line-height: 39px;
-    background: #F1FAEE;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 30px;
-}
-
-.mainbox section .box5 .box5a .box5ad {
-    width: 255px;
-    height: 255px;
-    margin-right: 150px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 32px;
-    line-height: 39px;
-    background: #F1FAEE;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 30px;
-}
-
-.mainbox section .box5 .box5b {
-    width: 100%;
-    height: 20%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    justify-content: space-evenly;
-
-}
-
-.mainbox section .box5 .box5ba {
-    width: 35%;
-    height: 55%;
-    margin-left: 100px;
-    background: #E63946;
-    border-radius: 25px;
-    display: flex;
-    justify-content: center;
-}
-
-.mainbox section .box5 .box5ba a {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 39px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    text-decoration: none;
-    color: #FAF9F9;
-}
-
-.mainbox section .box5 .box5bb {
-    width: 35%;
-    height: 55%;
-    margin-right: 100px;
-    background: #E63946;
-    border-radius: 25px;
-    display: flex;
-    justify-content: center;
-}
-
-.mainbox section .box5 .box5bb a {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 39px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    text-decoration: none;
-    color: #FAF9F9;
-}
-
-.mainbox section .box6 {
-    width: 100%;
-    height: 375px;
-}
-
-.mainbox section .box6 .box6a {
-    width: 30%;
-    height: 10%;
-    margin-top: 30px;
-}
-
-.mainbox section .box6 .box6a p {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 30px;
-    line-height: 40px;
-    margin-left: 50px;
-}
-
-.mainbox section .box6 .box6b {
-    width: 100%;
-    height: 55%;
-    display: flex;
-    margin-top: 50px;
-    justify-content: space-evenly;
-}
-
-.mainbox section .box6 .box6b .box6ba {
-    width: 22%;
-    height: 100%;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 25px;
-    background-image: url(/stream-1.png);
-}
-
-.mainbox section .box6 .box6b .box6bb {
-    width: 22%;
-    height: 100%;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 25px;
-    background-image: url(/stream-2.png);
-}
-
-.mainbox section .box6 .box6b .box6bc {
-    width: 22%;
-    height: 100%;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 25px;
-    background-image: url(/stream-3.png);
-}
-
-.mainbox section .box6 .box6b .box6bd {
-    width: 22%;
-    height: 100%;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 25px;
-    background-image: url(/stream-4.png);
-}
-.mainbox footer .box7{
-    width: 100%;
-    height: 116px;
-    background-color: #457B9D;
-    display: flex;
-align-items: center;
-justify-content: center;
-}
-.mainbox footer .box7 p{
-    font-family: 'Montserrat';
-font-style: normal;
-font-weight: 300;
-font-size: 24px;
-line-height: 29px;
-color: #FFFFFF;
 }
